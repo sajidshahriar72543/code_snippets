@@ -23,5 +23,10 @@
       "end main"
     ],
     "description": "Add skeleton code"
-  }
+  },
+  "Print a newline": {
+    "prefix": ["newline"],
+    "body": ["mov ah, 2", "mov dl, 10", "int 21h", "mov dl, 13", "int 21h"],
+    "description": "Print a newline"
+  },
 }
