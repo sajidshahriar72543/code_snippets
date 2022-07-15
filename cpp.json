@@ -1,0 +1,21 @@
+{
+	"Add skeleton code": {
+		"prefix": "#include",
+		"body": [
+			"// File Name: $TM_FILENAME",
+			"// Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+			"// Time: $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"// Author : Sajid (git : sajidshahriar72543)",
+			"",
+		  "#include <bits/stdc++.h>",
+		  "using namespace std;",
+		  "int main(){",
+		  "\t",
+		  "\t// your code here",
+		  "return 0;",
+		  "}",
+		  ""
+		],
+		"description": "Add skeleton code"
+	}
+}
